@@ -1,6 +1,6 @@
 # Hi, I'm Parjun Rai 👋
 
-I am a Computing student at Islington College, Nepal**, currently in my second year. I’m a passionate learner focused on building robust software and exploring the possibilities of AI.
+I am a Computing student at Islington College, Nepal, currently in my second year. I’m a passionate learner focused on building robust software and exploring the possibilities of AI.
 
 ### 💻 About Me
 - 🎓 **Education:** Currently diving deep into Software Engineering and Database Systems.
