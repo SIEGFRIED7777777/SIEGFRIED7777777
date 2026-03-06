@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi, I'm Parjun Tai 👋
 
-<!--
-**SIEGFRIED7777777/SIEGFRIED7777777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computing student at Islington College, Nepal. I am currently focused on strengthening my software engineering foundations and contributing to the open-source community.
 
-Here are some ideas to get you started:
+### 💻 Technical Focus
+- **Languages:**Python**Java**Html**CSS**
+- **Data Tools:** Numpy**,**MySQL***,
+- **Interests:** Artificial Intelligence, Large Language Models (LLMs), and Web Development,Neutal Networks.
+- **Current Goal:** Preparing for **Google Summer of Code 2026** by contributing to scientific software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Environment
+- **Editor:** VS Code, Pycahrm, Intellij IDEA, Figma
+- **Version Control:** Git & GitHub (Learning the workflow)
+- **OS:** Windows / Linux (WSL)
+
+### 📈 Current Projects
+AI image classification with CNN
+
+---
+📫 **Reach out to me:** parjunrai999@gamil.com
